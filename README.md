@@ -1,3 +1,8 @@
+## This project is discontinued.
+My old Dell Inspiron 17 7778 has broken down over the years trying to get it working on macOS fully. Although there are still some problems with this config, like no sound working at all -- It's still a good config. But unfortanly, I can't use this laptop as my main anymore due to how many issues I got with this laptop.
+
+If you'd like to fork this repo and work on it yourself, please do so. I'll even link the best one in the desc of this repo.
+
 # Dell Inspiron 17 7778 Hackintosh
 The EFI I use for my Dell Inspiron 17 7778 Series Hackintosh.
 
@@ -23,9 +28,8 @@ If you are switching EFIs; I recommend you reinstall macOS as there could be som
 * iMessage and other iCloud services.
 * Bluetooth.
 * Sleep/Restart/Shutdown - works with OC!
+* HDMI and HDMI sound.
 ### Not working:
 * Audio port? - Not too sure yet.
 * FileVault - who even uses that.
-* Touchscreen - Has to be disabled to we ca run macOS 10.15+.
-### Unknown:
-* HDMI and HDMI sound.
+* Touchscreen - The GTX card needs to be disabled so we can run macOS 10.15+.

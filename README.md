@@ -20,7 +20,6 @@ If you are switching EFIs; I recommend you reinstall macOS as there could be som
 ## What does and doesn't work.
 ### Working:
 * Networking + WiFi (I don't remember anything I needed to do for this?...).
-* Built-in (thanks to AppleALC).
 * AirDrop and other WiFi services on macOS.
 * Trackpad.
 * Battery information.
@@ -30,6 +29,7 @@ If you are switching EFIs; I recommend you reinstall macOS as there could be som
 * Sleep/Restart/Shutdown - works with OC!
 * HDMI and HDMI sound.
 ### Not working:
+* Built-in audio - None of the layouts on AppleALC for this laptop's audio device work on macOS 10.15+, but it does work on macOS 10.14-???
 * Audio port? - Not too sure yet.
 * FileVault - who even uses that.
 * Touchscreen - The GTX card needs to be disabled so we can run macOS 10.15+.

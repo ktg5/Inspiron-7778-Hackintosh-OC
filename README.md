@@ -1,5 +1,5 @@
 ## This project is discontinued.
-My old Dell Inspiron 17 7778 has broken down over the years trying to get it working on macOS fully. Although there are still some problems with this config, like no sound working at all -- It's still a good config. But unfortanly, I can't use this laptop as my main anymore due to how many issues I got with this laptop.
+My old Dell Inspiron 17 7778 has broken down over the years trying to get it working on macOS fully. Although there are still some problems with this config, like no sound working at all -- It's still a good config. But unfortanly, I can't use this laptop as my main anymore due to how many issues I got with this laptop (hardware wise).
 
 If you'd like to fork this repo and work on it yourself, please do so. I'll even link the best one in the desc of this repo.
 
